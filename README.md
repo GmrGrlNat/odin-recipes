@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first attempt at putting all of the HTML knowledge I have gained through The Odin Project together. The goal is a website that, while not the most aesthetically pleasing, provides a few recipes in an organized and intuitive format.
